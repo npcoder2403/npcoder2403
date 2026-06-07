@@ -22,11 +22,10 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><span style="margin: 4px 4px 0 0; padding: 2px 4px 0 0;">&nbsp; ABOUT ME</span><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<span style="margin: 4px 4px 0 0; padding: 2px 4px 0 0;">&nbsp; ABOUT ME</span><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
 
-<br/>
 <br/>
 
 * 🚀 **Senior Full Stack Developer** with **5+ years** of production experience
@@ -59,6 +58,57 @@
 
 <br />
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- WHY WORK WITH ME -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<span style="margin: 4px 4px 0 0; padding: 2px 4px 0 0;">&nbsp; WHY WORK WITH ME</span><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 <div align="center">
-<img src="https://vercel.app" width="100%"/>
+
+<table>
+<tr>
+<td align="center" width="250">
+<br/>
+🔑
+<br/><br/>
+<strong>End-to-End Delivery</strong>
+<br/><br/>
+<samp>From idea to production —<br/>architecture, development,<br/>testing & deployment</samp>
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+🤝
+<br/><br/>
+<strong>Client-First Approach</strong>
+<br/><br/>
+<samp>Clear communication,<br/>daily updates & timezone-<br/>flexible availability</samp>
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+⚡
+<br/><br/>
+<strong>Fast & Reliable</strong>
+<br/><br/>
+<samp>On-time delivery with<br/>clean, scalable &<br/>production-ready code</samp>
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+🌐
+<br/><br/>
+<strong>Global Experience</strong>
+<br/><br/>
+<samp>Worked with clients<br/>across US, UK, UAE,<br/>Singapore & more</samp>
+<br/><br/>
+</td>
+</tr>
+</table>
+
 </div>
+
+<br/>
