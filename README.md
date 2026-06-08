@@ -59,6 +59,27 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════ -->
+<!-- Tech Stack -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<span style="margin: 4px 4px 0 0; padding: 2px 4px 0 0;">&nbsp; Tech Stack</span><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+| Category               | Technologies                                                                                            |
+| ---------------------- | ------------------------------------------------------------------------------------------------------- |
+| **🎨 Frontend**        | React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap          |
+| **⚙️ Backend**         | Node.js, Express.js, NestJS, Python, FastAPI, REST APIs, GraphQL, WebSockets                            |
+| **🗄️ Database**       | MongoDB, PostgreSQL, MySQL, Redis                                                                        |
+| **☁️ Cloud & DevOps**  | AWS, Docker, Vercel, Render, GitHub Actions, CI/CD                                                      |
+| **🤖 AI & Automation** | OpenAI, AI Agents, Workflow Automation, Prompt Engineering, LangChain                                   |
+| **🔗 Integrations**    | Stripe, Twilio, SendGrid, Slack, WhatsApp                                                               |
+| **🛠️ Tools**          | Git, GitHub, Postman, VS Code, Jira, Figma                                                               |
+| **📦 Architecture**    | Microservices, Event-Driven Systems, Queue Processing, SaaS Architecture, System Design                 |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
 <!-- WHY WORK WITH ME -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
