@@ -112,3 +112,23 @@
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- Connect With Me -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<span style="margin: 4px 4px 0 0; padding: 2px 4px 0 0;">&nbsp; Connect With Me</span><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="start">
+
+&nbsp; 🌐 Portfolio: https://npcoder.vercel.app
+
+&nbsp; 💻 GitHub: https://github.com/npcoder2403
+
+&nbsp; 🔗 LinkedIn: https://linkedin.com/in/nirav-prajapati
+
+&nbsp; 📧 Email: [np.coder2403@gmail.com](mailto:np.coder2403@gmail.com)
+
+</div>
